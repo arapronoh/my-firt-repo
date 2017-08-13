@@ -8,8 +8,8 @@ it is **soooo**nice to write in this format.
 
 once you get a hang of **it** you just:
 
-*remember the basic syntax
+ *remember the basic syntax
 
-*write your doc
+ *write your doc
 
-*done!
+ *done!
